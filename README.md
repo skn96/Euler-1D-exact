@@ -1,1 +1,1 @@
-# Euler-1D-exact
+# Some variants of the WENO problem
